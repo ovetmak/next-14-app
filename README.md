@@ -1,3 +1,12 @@
+3.03.2024
+
+- created next.js app
+- structure created accoring to AppRouter
+- styling added
+- navbar and footer added to layout
+- burger menu added
+- resposive design functionality added via media queries
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
