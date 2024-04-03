@@ -16,6 +16,13 @@
 - Footer structure created, media, styling and content added
 - About structure created, media, styling and content added
 
+# fourth commit
+
+- Contact structure created, media, styling and content added
+- Blog structure created, media, styling and content added
+- Single post structure created, media, styling and content added
+- Burger menu image finally added
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
