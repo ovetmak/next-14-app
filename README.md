@@ -1,11 +1,20 @@
 3.03.2024
 
+# second commit
+
 - created next.js app
 - structure created accoring to AppRouter
 - styling added
 - navbar and footer added to layout
 - burger menu added
 - resposive design functionality added via media queries
+
+# third commit
+
+- images added to public folder
+- Home page structure created, media, styling and content added
+- Footer structure created, media, styling and content added
+- About structure created, media, styling and content added
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
