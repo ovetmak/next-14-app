@@ -1,4 +1,4 @@
-3.03.2024
+## 3.03.2024
 
 # second commit
 
@@ -22,6 +22,13 @@
 - Blog structure created, media, styling and content added
 - Single post structure created, media, styling and content added
 - Burger menu image finally added
+
+## 4.03.2024
+
+# first commit
+
+- Tryed Client Side Rendering and Servere Side Rendering approaches
+- Understood how to work with them and use them together
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

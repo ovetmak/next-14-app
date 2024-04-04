@@ -8,6 +8,8 @@ export const metadata = {
 }
 
 const AboutPage = () => {
+  // console.log("Check if it shows on client side? No, only server side")
+
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
