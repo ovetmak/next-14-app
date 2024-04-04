@@ -1,6 +1,6 @@
-## 3.03.2024
+# 3.03.2024
 
-# second commit
+## second commit
 
 - created next.js app
 - structure created accoring to AppRouter
@@ -9,26 +9,30 @@
 - burger menu added
 - resposive design functionality added via media queries
 
-# third commit
+## third commit
 
 - images added to public folder
 - Home page structure created, media, styling and content added
 - Footer structure created, media, styling and content added
 - About structure created, media, styling and content added
 
-# fourth commit
+## fourth commit
 
 - Contact structure created, media, styling and content added
 - Blog structure created, media, styling and content added
 - Single post structure created, media, styling and content added
 - Burger menu image finally added
 
-## 4.03.2024
+# 4.03.2024
 
-# first commit
+## first commit
 
 - Tryed Client Side Rendering and Servere Side Rendering approaches
 - Understood how to work with them and use them together
+
+##
+
+- considered the main functions of Navigation (Links, useRouter, useParams, page params)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
